@@ -1,2 +1,2 @@
 # grierson.github.io
-grierson.org.uk hosting
+Hosting for the www.grierson.org.uk site.
